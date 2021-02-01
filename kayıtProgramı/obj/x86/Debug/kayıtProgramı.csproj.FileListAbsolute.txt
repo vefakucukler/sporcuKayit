@@ -1,0 +1,13 @@
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\bin\x86\Debug\kayıtProgramı.exe.config
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\bin\x86\Debug\kayıtProgramı.exe
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\bin\x86\Debug\kayıtProgramı.pdb
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Form1.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Form2.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Form3.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Form4.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Form5.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Form6.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.Properties.Resources.resources
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.csproj.GenerateResource.Cache
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.exe
+C:\Users\Vefa\documents\visual studio 2015\Projects\kayıtProgramı\kayıtProgramı\obj\x86\Debug\kayıtProgramı.pdb
